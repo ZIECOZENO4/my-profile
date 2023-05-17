@@ -1,0 +1,80 @@
+
+.gradient-background {
+    background: linear-gradient(400deg, red, orange, blue);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+
+
+  
+h1{
+    font-size: 5rem;
+    font-weight: bolder;
+    font-stretch: expanded;
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Lobster', cursive;
+text-align: center;
+text-decoration: wavy;
+color: rgba(0, 0, 0, 0.726);
+display: block;
+margin-block-start: 10%;
+margin-block-end: 10%;
+
+}
+h3{
+    text-align: center;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.FRONT-END{
+color: midnightblue;
+font-weight: bold;
+}
+
+
+.whatsapp{
+width: 500px;
+border: 0px;
+  
+   border-radius: 48%;
+}
+
+
+
+  .lead{
+font-size: 6rem;
+font-family: "Sacramento", cursive
+
+  }
+  
+.feature-heading{
+  font-size: 4rem;
+   font-family: 'Libre Baskerville', serif;
+   font-weight: lighter;
+
+}
+.text{
+  font-size:20px;
+}
+.Design{
+  font-size: 3rem;
+  color: blue;
+}
+.about{
+  margin-top: 0%;
+  margin-bottom: 5rem;
+}
+.design{
+  font-size: 2rem;
+  color: blue;
+}
+.desig{
+  font-size: 2rem;
+  color:rgba(0, 0, 0, 0.712);
+  margin-bottom: 8%;
+}
+.games{
+font-size:1rem ;
+color: green;
+}
